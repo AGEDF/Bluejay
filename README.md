@@ -12,12 +12,5 @@ This repository contains a Java program (Bluejay.java) designed to analyze an Ex
 
 2. **Output.txt:** The output file containing the results of the analysis. Each identified scenario is logged in this file.
 
-## How to Run
 
-1. Ensure you have Java installed on your machine.
-2. Modify the `filePath` variable in Bluejay.java to point to your Excel file.
-3. Compile and run Bluejay.java.
 
-```bash
-javac Bluejay.java
-java Bluejay
