@@ -1,0 +1,1004 @@
+Employee: SiWgXeMEW, Position: WFS000426 has a short shift with duration: 4 hours.
+Employee: SiWgXeMEW, Position: WFS000426 has a short shift with duration: 4 hours.
+Employee: SiWgXeMEW, Position: WFS000426 has a short shift with duration: 3 hours.
+Employee: SiWgXeMEW, Position: WFS000426 has a short shift with duration: 4 hours.
+Employee: SiWgXeMEW, Position: WFS000426 has a short shift with duration: 3 hours.
+Employee: SiWgXeMEW, Position: WFS000426 has a short shift with duration: 4 hours.
+Employee: SiWgXeMEW, Position: WFS000426 has worked for 7 consecutive days.
+Employee: SiWgXeMEW, Position: WFS000426 has a short shift with duration: 4 hours.
+Employee: SiWgXeMEW, Position: WFS000426 has a short shift with duration: 3 hours.
+Employee: SiWgXeMEW, Position: WFS000426 has a short shift with duration: 4 hours.
+Employee: SiWgXeMEW, Position: WFS000426 has a short shift with duration: 2 hours.
+Employee: SiWgXeMEW, Position: WFS000426 has a short shift with duration: 4 hours.
+Employee: SiWgXeMEW, Position: WFS000426 has a short shift with duration: 2 hours.
+Employee: SiWgXeMEW, Position: WFS000426 has worked for 7 consecutive days.
+Employee: SiWgXeMEW, Position: WFS000426 has a short shift with duration: 7 hours.
+Employee: PaXaciE, Position: WFS000434 has a short shift with duration: 4 hours.
+Employee: PaXaciE, Position: WFS000434 has a short shift with duration: 2 hours.
+Employee: PaXaciE, Position: WFS000434 has a short shift with duration: 3 hours.
+Employee: PaXaciE, Position: WFS000434 has a short shift with duration: 4 hours.
+Employee: PaXaciE, Position: WFS000434 has a short shift with duration: 3 hours.
+Employee: PaXaciE, Position: WFS000434 has a short shift with duration: 6 hours.
+Employee: PaXaciE, Position: WFS000434 has worked for 7 consecutive days.
+Employee: PaXaciE, Position: WFS000434 has a short shift with duration: 4 hours.
+Employee: PaXaciE, Position: WFS000434 has a short shift with duration: 4 hours.
+Employee: PaXaciE, Position: WFS000434 has a short shift with duration: 3 hours.
+Employee: PaXaciE, Position: WFS000434 has a short shift with duration: 2 hours.
+Employee: PaXaciE, Position: WFS000434 has a short shift with duration: 4 hours.
+Employee: PaXaciE, Position: WFS000434 has a short shift with duration: 3 hours.
+Employee: PaXaciE, Position: WFS000434 has worked for 7 consecutive days.
+Employee: PaXaciE, Position: WFS000434 has a short shift with duration: 4 hours.
+Employee: ErEzcE, Position: WFS000442 has a short shift with duration: 4 hours.
+Employee: ErEzcE, Position: WFS000442 has a short shift with duration: 4 hours.
+Employee: ErEzcE, Position: WFS000442 has a short shift with duration: 4 hours.
+Employee: ErEzcE, Position: WFS000442 has worked for 7 consecutive days.
+Employee: ErEzcE, Position: WFS000442 has a short shift with duration: 4 hours.
+Employee: ErEzcE, Position: WFS000442 has a short shift with duration: 4 hours.
+Employee: ErEzcE, Position: WFS000442 has a short shift with duration: 2 hours.
+Employee: ErEzcE, Position: WFS000442 has a short shift with duration: 3 hours.
+Employee: ErEzcE, Position: WFS000442 has a short shift with duration: 3 hours.
+Employee: ErEzcE, Position: WFS000442 has a short shift with duration: 4 hours.
+Employee: ErEzcE, Position: WFS000442 has worked for 7 consecutive days.
+Employee: ErEzcE, Position: WFS000442 has a short shift with duration: 3 hours.
+Employee: ErEzcE, Position: WFS000442 has a short shift with duration: 2 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 5 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 3 hours.
+Employee: CercadE, Position: WFS000446 has worked for 7 consecutive days.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 5 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000446 has worked for 7 consecutive days.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 3 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000446 has a short shift with duration: 4 hours.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 3 hours.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 4 hours.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 2 hours.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 6 hours.
+Employee: CEreira Jr, Position: WFS000456 has worked for 7 consecutive days.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 4 hours.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 4 hours.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 4 hours.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 5 hours.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 4 hours.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 4 hours.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 4 hours.
+Employee: CEreira Jr, Position: WFS000456 has worked for 7 consecutive days.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 8 hours.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 3 hours.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 3 hours.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 3 hours.
+Employee: CEreira Jr, Position: WFS000456 has a short shift with duration: 4 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 4 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 3 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 4 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 4 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 4 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 2 hours.
+Employee: AXvarez, Position: WFS000457 has worked for 7 consecutive days.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 4 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 2 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 4 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 4 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 4 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 3 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 4 hours.
+Employee: AXvarez, Position: WFS000457 has worked for 7 consecutive days.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 4 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 3 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 4 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 3 hours.
+Employee: AXvarez, Position: WFS000457 has a short shift with duration: 4 hours.
+Employee: PaAXE, Position: WFS000460 has a short shift with duration: 3 hours.
+Employee: PaAXE, Position: WFS000460 has a short shift with duration: 2 hours.
+Employee: PaAXE, Position: WFS000460 has a short shift with duration: 3 hours.
+Employee: PaAXE, Position: WFS000460 has a short shift with duration: 2 hours.
+Employee: PaAXE, Position: WFS000460 has a short shift with duration: 3 hours.
+Employee: PaAXE, Position: WFS000460 has worked for 7 consecutive days.
+Employee: PaAXE, Position: WFS000460 has a short shift with duration: 6 hours.
+Employee: PaAXE, Position: WFS000460 has a short shift with duration: 4 hours.
+Employee: PaAXE, Position: WFS000460 has a short shift with duration: 2 hours.
+Employee: PaAXE, Position: WFS000460 has a short shift with duration: 2 hours.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 4 hours.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 5 hours.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 4 hours.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 4 hours.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 4 hours.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 5 hours.
+Employee: XiWW, Position: WFS000462 has worked for 7 consecutive days.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 4 hours.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 4 hours.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 4 hours.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 4 hours.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 4 hours.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 5 hours.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 4 hours.
+Employee: XiWW, Position: WFS000462 has worked for 7 consecutive days.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 4 hours.
+Employee: XiWW, Position: WFS000462 has a short shift with duration: 9 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 4 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 3 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 4 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 4 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 3 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 4 hours.
+Employee: CaXdEWadE, Position: WFS000463 has worked for 7 consecutive days.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 4 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 3 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 4 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 4 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 3 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 4 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 3 hours.
+Employee: CaXdEWadE, Position: WFS000463 has worked for 7 consecutive days.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 5 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 4 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 4 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 4 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 5 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 4 hours.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 4 hours.
+Employee: CaXdEWadE, Position: WFS000463 has worked for 7 consecutive days.
+Employee: CaXdEWadE, Position: WFS000463 has a short shift with duration: 7 hours.
+Employee: CeWdEza, Position: WFS000465 has a short shift with duration: 3 hours.
+Employee: CeWdEza, Position: WFS000465 has a short shift with duration: 3 hours.
+Employee: CeWdEza, Position: WFS000465 has a short shift with duration: 2 hours.
+Employee: CeWdEza, Position: WFS000465 has a short shift with duration: 4 hours.
+Employee: CeWdEza, Position: WFS000465 has a short shift with duration: 2 hours.
+Employee: CeWdEza, Position: WFS000465 has worked for 7 consecutive days.
+Employee: PerkiWs, Position: WFS000469 has a short shift with duration: 4 hours.
+Employee: PerkiWs, Position: WFS000469 has a short shift with duration: 2 hours.
+Employee: PerkiWs, Position: WFS000469 has a short shift with duration: 4 hours.
+Employee: PerkiWs, Position: WFS000469 has a short shift with duration: 4 hours.
+Employee: PerkiWs, Position: WFS000469 has a short shift with duration: 5 hours.
+Employee: PerkiWs, Position: WFS000469 has a short shift with duration: 4 hours.
+Employee: PerkiWs, Position: WFS000469 has worked for 7 consecutive days.
+Employee: PerkiWs, Position: WFS000469 has a short shift with duration: 5 hours.
+Employee: PerkiWs, Position: WFS000469 has a short shift with duration: 4 hours.
+Employee: PerkiWs, Position: WFS000469 has a short shift with duration: 2 hours.
+Employee: PerkiWs, Position: WFS000469 has a short shift with duration: 4 hours.
+Employee: PerkiWs, Position: WFS000469 has a short shift with duration: 4 hours.
+Employee: PerkiWs, Position: WFS000469 has a short shift with duration: 4 hours.
+Employee: PerkiWs, Position: WFS000469 has worked for 7 consecutive days.
+Employee: PerkiWs, Position: WFS000469 has a short shift with duration: 3 hours.
+Employee: PerkiWs, Position: WFS000469 has a short shift with duration: 3 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 4 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 2 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 3 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 4 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 3 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 4 hours.
+Employee: GAeWdia, Position: WFS000473 has worked for 7 consecutive days.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 4 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 3 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 4 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 4 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 4 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 4 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 4 hours.
+Employee: GAeWdia, Position: WFS000473 has worked for 7 consecutive days.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 4 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 5 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 4 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 2 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 4 hours.
+Employee: GAeWdia, Position: WFS000473 has worked for 7 consecutive days.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 4 hours.
+Employee: GAeWdia, Position: WFS000473 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000477 has a short shift with duration: 3 hours.
+Employee: ZaCEra, Position: WFS000477 has a short shift with duration: 2 hours.
+Employee: ZaCEra, Position: WFS000477 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000477 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000477 has a short shift with duration: 2 hours.
+Employee: ZaCEra, Position: WFS000477 has a short shift with duration: 3 hours.
+Employee: ZaCEra, Position: WFS000477 has worked for 7 consecutive days.
+Employee: ZaCEra, Position: WFS000477 has a short shift with duration: 2 hours.
+Employee: ZaCEra, Position: WFS000477 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000477 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000477 has a short shift with duration: 4 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 3 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 3 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 3 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 4 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 3 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 3 hours.
+Employee: ArevaXE, Position: WFS000491 has worked for 7 consecutive days.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 3 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 3 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 4 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 2 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 2 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 5 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 4 hours.
+Employee: ArevaXE, Position: WFS000491 has worked for 7 consecutive days.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 3 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 4 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 3 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 3 hours.
+Employee: ArevaXE, Position: WFS000491 has a short shift with duration: 4 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 4 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 3 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 4 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 4 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 4 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 4 hours.
+Employee: CErMes, Position: WFS000495 has worked for 7 consecutive days.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 3 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 4 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 3 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 4 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 4 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 4 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 3 hours.
+Employee: CErMes, Position: WFS000495 has worked for 7 consecutive days.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 5 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 4 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 5 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 4 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 5 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 4 hours.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 5 hours.
+Employee: CErMes, Position: WFS000495 has worked for 7 consecutive days.
+Employee: CErMes, Position: WFS000495 has a short shift with duration: 9 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 3 hours.
+Employee: CercadE, Position: WFS000496 has worked for 7 consecutive days.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 5 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 3 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000496 has worked for 7 consecutive days.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 9 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000496 has worked for 7 consecutive days.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 4 hours.
+Employee: CercadE, Position: WFS000496 has a short shift with duration: 9 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 3 hours.
+Employee: ZaCEra, Position: WFS000499 has worked for 7 consecutive days.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 3 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 3 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000499 has worked for 7 consecutive days.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 3 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 3 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 3 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 5 hours.
+Employee: ZaCEra, Position: WFS000499 has worked for 7 consecutive days.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 4 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 6 hours.
+Employee: ZaCEra, Position: WFS000499 has a short shift with duration: 8 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 4 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 4 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 4 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 4 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 3 hours.
+Employee: Caxies, Position: WFS000500 has worked for 7 consecutive days.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 4 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 3 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 4 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 4 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 3 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 2 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 3 hours.
+Employee: Caxies, Position: WFS000500 has worked for 7 consecutive days.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 3 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 4 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 3 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 3 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 3 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 3 hours.
+Employee: Caxies, Position: WFS000500 has a short shift with duration: 5 hours.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 4 hours.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 2 hours.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 3 hours.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 4 hours.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 3 hours.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 3 hours.
+Employee: CcRAWWeX, Position: WFS000501 has worked for 7 consecutive days.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 4 hours.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 4 hours.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 3 hours.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 4 hours.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 5 hours.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 4 hours.
+Employee: CcRAWWeX, Position: WFS000501 has worked for 7 consecutive days.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 3 hours.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 4 hours.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 2 hours.
+Employee: CcRAWWeX, Position: WFS000501 has a short shift with duration: 3 hours.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 2 hours.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 3 hours.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 4 hours.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 2 hours.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 3 hours.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 3 hours.
+Employee: CEMMa, Position: WFS000503 has worked for 7 consecutive days.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 3 hours.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 3 hours.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 4 hours.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 5 hours.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 3 hours.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 3 hours.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 4 hours.
+Employee: CEMMa, Position: WFS000503 has worked for 7 consecutive days.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 4 hours.
+Employee: CEMMa, Position: WFS000503 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000505 has worked for 7 consecutive days.
+Employee: REdrigAez, Position: WFS000505 has a short shift with duration: 3 hours.
+Employee: REdrigAez, Position: WFS000505 has a short shift with duration: 3 hours.
+Employee: REdrigAez, Position: WFS000505 has a short shift with duration: 3 hours.
+Employee: REdrigAez, Position: WFS000505 has a short shift with duration: 3 hours.
+Employee: REdrigAez, Position: WFS000505 has a short shift with duration: 4 hours.
+Employee: Rivera AXcaWMar, Position: WFS000507 has a short shift with duration: 3 hours.
+Employee: Rivera AXcaWMar, Position: WFS000507 has a short shift with duration: 4 hours.
+Employee: Rivera AXcaWMar, Position: WFS000507 has a short shift with duration: 3 hours.
+Employee: Rivera AXcaWMar, Position: WFS000507 has a short shift with duration: 4 hours.
+Employee: Rivera AXcaWMar, Position: WFS000507 has a short shift with duration: 3 hours.
+Employee: Rivera AXcaWMar, Position: WFS000507 has a short shift with duration: 4 hours.
+Employee: Rivera AXcaWMar, Position: WFS000507 has worked for 7 consecutive days.
+Employee: Rivera AXcaWMar, Position: WFS000507 has a short shift with duration: 4 hours.
+Employee: Rivera AXcaWMar, Position: WFS000507 has a short shift with duration: 4 hours.
+Employee: Rivera AXcaWMar, Position: WFS000507 has a short shift with duration: 4 hours.
+Employee: Rivera AXcaWMar, Position: WFS000507 has a short shift with duration: 4 hours.
+Employee: Rivera AXcaWMar, Position: WFS000507 has a short shift with duration: 9 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 4 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 3 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 4 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 4 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 3 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 2 hours.
+Employee: EXivares, Position: WFS000508 has worked for 7 consecutive days.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 2 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 2 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 4 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 3 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 3 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 3 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 4 hours.
+Employee: EXivares, Position: WFS000508 has worked for 7 consecutive days.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 4 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 3 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 4 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 4 hours.
+Employee: EXivares, Position: WFS000508 has a short shift with duration: 4 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 3 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 5 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 4 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 4 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 4 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 4 hours.
+Employee: ChaCErE, Position: WFS000509 has worked for 7 consecutive days.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 4 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 4 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 3 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 3 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 4 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 3 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 3 hours.
+Employee: ChaCErE, Position: WFS000509 has worked for 7 consecutive days.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 5 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 4 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 2 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 3 hours.
+Employee: ChaCErE, Position: WFS000509 has a short shift with duration: 3 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 2 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 2 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 3 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 2 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 4 hours.
+Employee: WiXXiaCs, Position: WFS000511 has worked for 7 consecutive days.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 2 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 4 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 3 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 3 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 4 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 3 hours.
+Employee: WiXXiaCs, Position: WFS000511 has worked for 7 consecutive days.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 3 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 4 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 4 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 2 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 2 hours.
+Employee: WiXXiaCs, Position: WFS000511 has a short shift with duration: 4 hours.
+Employee: CaraGiXXa, Position: WFS000514 has a short shift with duration: 3 hours.
+Employee: CaraGiXXa, Position: WFS000514 has a short shift with duration: 3 hours.
+Employee: CaraGiXXa, Position: WFS000514 has a short shift with duration: 4 hours.
+Employee: CaraGiXXa, Position: WFS000514 has a short shift with duration: 2 hours.
+Employee: CaraGiXXa, Position: WFS000514 has a short shift with duration: 4 hours.
+Employee: CaraGiXXa, Position: WFS000514 has worked for 7 consecutive days.
+Employee: CaraGiXXa, Position: WFS000514 has a short shift with duration: 4 hours.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 4 hours.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 2 hours.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 4 hours.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 2 hours.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 3 hours.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 2 hours.
+Employee: GrACfieXd, Position: WFS000515 has worked for 7 consecutive days.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 4 hours.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 4 hours.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 3 hours.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 3 hours.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 3 hours.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 3 hours.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 4 hours.
+Employee: GrACfieXd, Position: WFS000515 has worked for 7 consecutive days.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 4 hours.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 4 hours.
+Employee: GrACfieXd, Position: WFS000515 has a short shift with duration: 3 hours.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 3 hours.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 4 hours.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 3 hours.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 4 hours.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 4 hours.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 4 hours.
+Employee: Perez, Position: WFS000517 has worked for 7 consecutive days.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 3 hours.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 4 hours.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 4 hours.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 3 hours.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 4 hours.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 4 hours.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 4 hours.
+Employee: Perez, Position: WFS000517 has worked for 7 consecutive days.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 4 hours.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 4 hours.
+Employee: Perez, Position: WFS000517 has a short shift with duration: 9 hours.
+Employee: ArrAMia, Position: WFS000518 has a short shift with duration: 4 hours.
+Employee: ArrAMia, Position: WFS000518 has a short shift with duration: 4 hours.
+Employee: ArrAMia, Position: WFS000518 has a short shift with duration: 4 hours.
+Employee: ArrAMia, Position: WFS000518 has worked for 7 consecutive days.
+Employee: ArrAMia, Position: WFS000518 has a short shift with duration: 4 hours.
+Employee: ArrAMia, Position: WFS000518 has a short shift with duration: 4 hours.
+Employee: ArrAMia, Position: WFS000518 has a short shift with duration: 4 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 4 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 2 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 4 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 3 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 4 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 2 hours.
+Employee: DiXXard, Position: WFS000519 has worked for 7 consecutive days.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 4 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 4 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 4 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 3 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 3 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 3 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 3 hours.
+Employee: DiXXard, Position: WFS000519 has worked for 7 consecutive days.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 4 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 4 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 2 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 4 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 4 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 4 hours.
+Employee: DiXXard, Position: WFS000519 has a short shift with duration: 5 hours.
+Employee: SaWchez PaCpXEWa, Position: WFS000521 has a short shift with duration: 3 hours.
+Employee: SaWchez PaCpXEWa, Position: WFS000521 has a short shift with duration: 4 hours.
+Employee: SaWchez PaCpXEWa, Position: WFS000521 has a short shift with duration: 4 hours.
+Employee: SaWchez PaCpXEWa, Position: WFS000521 has a short shift with duration: 3 hours.
+Employee: SaWchez PaCpXEWa, Position: WFS000521 has a short shift with duration: 3 hours.
+Employee: SaWchez PaCpXEWa, Position: WFS000521 has a short shift with duration: 4 hours.
+Employee: SaWchez PaCpXEWa, Position: WFS000521 has worked for 7 consecutive days.
+Employee: SaWchez PaCpXEWa, Position: WFS000521 has a short shift with duration: 4 hours.
+Employee: SaWchez PaCpXEWa, Position: WFS000521 has a short shift with duration: 4 hours.
+Employee: SaWchez PaCpXEWa, Position: WFS000521 has a short shift with duration: 4 hours.
+Employee: SaWchez PaCpXEWa, Position: WFS000521 has a short shift with duration: 4 hours.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 3 hours.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 2 hours.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 3 hours.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 6 hours.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 4 hours.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 4 hours.
+Employee: XEpez WAWez, Position: WFS000522 has worked for 7 consecutive days.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 4 hours.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 4 hours.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 4 hours.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 4 hours.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 4 hours.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 4 hours.
+Employee: XEpez WAWez, Position: WFS000522 has worked for 7 consecutive days.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 4 hours.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 3 hours.
+Employee: XEpez WAWez, Position: WFS000522 has a short shift with duration: 8 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 3 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 2 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 4 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 4 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 4 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 6 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has worked for 7 consecutive days.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 3 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 5 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 3 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 4 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has worked for more than 14 hours in a single shift.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 4 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 3 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has worked for 7 consecutive days.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 3 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 3 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 2 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 4 hours.
+Employee: DeXgadiXXE REdarMe, Position: WFS000523 has a short shift with duration: 5 hours.
+Employee: CeciWa, Position: WFS000528 has a short shift with duration: 4 hours.
+Employee: CeciWa, Position: WFS000528 has a short shift with duration: 4 hours.
+Employee: CeciWa, Position: WFS000528 has a short shift with duration: 4 hours.
+Employee: CeciWa, Position: WFS000528 has a short shift with duration: 2 hours.
+Employee: CeciWa, Position: WFS000528 has a short shift with duration: 3 hours.
+Employee: CeciWa, Position: WFS000528 has worked for 7 consecutive days.
+Employee: CeciWa, Position: WFS000528 has a short shift with duration: 8 hours.
+Employee: CeciWa, Position: WFS000528 has a short shift with duration: 8 hours.
+Employee: CeciWa, Position: WFS000528 has a short shift with duration: 3 hours.
+Employee: CeciWa, Position: WFS000528 has a short shift with duration: 4 hours.
+Employee: FaGiaW CiraWda, Position: WFS000530 has a short shift with duration: 4 hours.
+Employee: FaGiaW CiraWda, Position: WFS000530 has a short shift with duration: 4 hours.
+Employee: FaGiaW CiraWda, Position: WFS000530 has a short shift with duration: 7 hours.
+Employee: FaGiaW CiraWda, Position: WFS000530 has a short shift with duration: 4 hours.
+Employee: FaGiaW CiraWda, Position: WFS000530 has a short shift with duration: 3 hours.
+Employee: FaGiaW CiraWda, Position: WFS000530 has worked for 7 consecutive days.
+Employee: FaGiaW CiraWda, Position: WFS000530 has a short shift with duration: 3 hours.
+Employee: FaGiaW CiraWda, Position: WFS000530 has a short shift with duration: 4 hours.
+Employee: FaGiaW CiraWda, Position: WFS000530 has a short shift with duration: 6 hours.
+Employee: HaCiXMEW, Position: WFS000536 has a short shift with duration: 4 hours.
+Employee: HaCiXMEW, Position: WFS000536 has a short shift with duration: 4 hours.
+Employee: HaCiXMEW, Position: WFS000536 has a short shift with duration: 4 hours.
+Employee: HaCiXMEW, Position: WFS000536 has a short shift with duration: 2 hours.
+Employee: HaCiXMEW, Position: WFS000536 has a short shift with duration: 4 hours.
+Employee: HaCiXMEW, Position: WFS000536 has a short shift with duration: 5 hours.
+Employee: HaCiXMEW, Position: WFS000536 has worked for 7 consecutive days.
+Employee: HaCiXMEW, Position: WFS000536 has a short shift with duration: 4 hours.
+Employee: HaCiXMEW, Position: WFS000536 has a short shift with duration: 4 hours.
+Employee: HaCiXMEW, Position: WFS000536 has a short shift with duration: 3 hours.
+Employee: HaCiXMEW, Position: WFS000536 has a short shift with duration: 4 hours.
+Employee: HAWMer, Position: WFS000538 has a short shift with duration: 4 hours.
+Employee: HAWMer, Position: WFS000538 has a short shift with duration: 3 hours.
+Employee: HAWMer, Position: WFS000538 has a short shift with duration: 2 hours.
+Employee: HAWMer, Position: WFS000538 has a short shift with duration: 4 hours.
+Employee: HAWMer, Position: WFS000538 has a short shift with duration: 3 hours.
+Employee: HAWMer, Position: WFS000538 has a short shift with duration: 4 hours.
+Employee: HAWMer, Position: WFS000538 has worked for 7 consecutive days.
+Employee: HAWMer, Position: WFS000538 has a short shift with duration: 3 hours.
+Employee: AXcEcer, Position: WFS000541 has a short shift with duration: 4 hours.
+Employee: AXcEcer, Position: WFS000541 has a short shift with duration: 4 hours.
+Employee: AXcEcer, Position: WFS000541 has a short shift with duration: 2 hours.
+Employee: AXcEcer, Position: WFS000541 has a short shift with duration: 3 hours.
+Employee: AXcEcer, Position: WFS000541 has worked for 7 consecutive days.
+Employee: AXcEcer, Position: WFS000541 has a short shift with duration: 3 hours.
+Employee: AXcEcer, Position: WFS000541 has a short shift with duration: 3 hours.
+Employee: AXcEcer, Position: WFS000541 has a short shift with duration: 5 hours.
+Employee: AXcEcer, Position: WFS000541 has a short shift with duration: 4 hours.
+Employee: AXcEcer, Position: WFS000541 has a short shift with duration: 4 hours.
+Employee: AXcEcer, Position: WFS000541 has a short shift with duration: 4 hours.
+Employee: AXcEcer, Position: WFS000541 has a short shift with duration: 3 hours.
+Employee: AXcEcer, Position: WFS000541 has worked for 7 consecutive days.
+Employee: AXcEcer, Position: WFS000541 has a short shift with duration: 4 hours.
+Employee: AXcEcer, Position: WFS000541 has a short shift with duration: 5 hours.
+Employee: IWGEAa, Position: WFS000546 has a short shift with duration: 2 hours.
+Employee: IWGEAa, Position: WFS000546 has a short shift with duration: 5 hours.
+Employee: IWGEAa, Position: WFS000546 has a short shift with duration: 2 hours.
+Employee: IWGEAa, Position: WFS000546 has a short shift with duration: 5 hours.
+Employee: IWGEAa, Position: WFS000546 has a short shift with duration: 3 hours.
+Employee: IWGEAa, Position: WFS000546 has worked for 7 consecutive days.
+Employee: IWGEAa, Position: WFS000546 has a short shift with duration: 6 hours.
+Employee: IWGEAa, Position: WFS000546 has a short shift with duration: 4 hours.
+Employee: IWGEAa, Position: WFS000546 has a short shift with duration: 2 hours.
+Employee: IWGEAa, Position: WFS000546 has a short shift with duration: 3 hours.
+Employee: IWGEAa, Position: WFS000546 has a short shift with duration: 2 hours.
+Employee: CesiWa CEreWE, Position: WFS000548 has a short shift with duration: 8 hours.
+Employee: CesiWa CEreWE, Position: WFS000548 has a short shift with duration: 4 hours.
+Employee: CesiWa CEreWE, Position: WFS000548 has a short shift with duration: 4 hours.
+Employee: CesiWa CEreWE, Position: WFS000548 has a short shift with duration: 4 hours.
+Employee: CesiWa CEreWE, Position: WFS000548 has a short shift with duration: 2 hours.
+Employee: CesiWa CEreWE, Position: WFS000548 has a short shift with duration: 4 hours.
+Employee: CesiWa CEreWE, Position: WFS000548 has worked for 7 consecutive days.
+Employee: CesiWa CEreWE, Position: WFS000548 has a short shift with duration: 4 hours.
+Employee: CesiWa CEreWE, Position: WFS000548 has a short shift with duration: 4 hours.
+Employee: CesiWa CEreWE, Position: WFS000548 has a short shift with duration: 4 hours.
+Employee: CesiWa CEreWE, Position: WFS000548 has a short shift with duration: 4 hours.
+Employee: CesiWa CEreWE, Position: WFS000548 has worked for 7 consecutive days.
+Employee: CesiWa CEreWE, Position: WFS000548 has a short shift with duration: 5 hours.
+Employee: HEGGie ErMega, Position: WFS000549 has a short shift with duration: 3 hours.
+Employee: HEGGie ErMega, Position: WFS000549 has a short shift with duration: 5 hours.
+Employee: HEGGie ErMega, Position: WFS000549 has a short shift with duration: 3 hours.
+Employee: HEGGie ErMega, Position: WFS000549 has a short shift with duration: 4 hours.
+Employee: HEGGie ErMega, Position: WFS000549 has a short shift with duration: 4 hours.
+Employee: HEGGie ErMega, Position: WFS000549 has a short shift with duration: 3 hours.
+Employee: HEGGie ErMega, Position: WFS000549 has worked for 7 consecutive days.
+Employee: HEGGie ErMega, Position: WFS000549 has a short shift with duration: 3 hours.
+Employee: HEGGie ErMega, Position: WFS000549 has a short shift with duration: 4 hours.
+Employee: HEGGie ErMega, Position: WFS000549 has a short shift with duration: 3 hours.
+Employee: HEGGie ErMega, Position: WFS000549 has a short shift with duration: 5 hours.
+Employee: HEGGie ErMega, Position: WFS000549 has a short shift with duration: 4 hours.
+Employee: HEGGie ErMega, Position: WFS000549 has a short shift with duration: 3 hours.
+Employee: HEGGie ErMega, Position: WFS000549 has a short shift with duration: 4 hours.
+Employee: HEGGie ErMega, Position: WFS000549 has worked for 7 consecutive days.
+Employee: HEGGie ErMega, Position: WFS000549 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has worked for 7 consecutive days.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 3 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 5 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has worked for 7 consecutive days.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 5 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 3 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has worked for 7 consecutive days.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 5 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 5 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 4 hours.
+Employee: REdrigAez, Position: WFS000550 has a short shift with duration: 3 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 4 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 4 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 4 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 2 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has worked for 7 consecutive days.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 4 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 3 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 3 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 4 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 3 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 2 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 3 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has worked for 7 consecutive days.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 4 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 4 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 3 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 4 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 2 hours.
+Employee: Diaz GaXvez, Position: WFS000551 has a short shift with duration: 4 hours.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 3 hours.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 2 hours.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 3 hours.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 3 hours.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 3 hours.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 5 hours.
+Employee: EsMrada, Position: WFS000552 has worked for 7 consecutive days.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 3 hours.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 3 hours.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 2 hours.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 4 hours.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 4 hours.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 4 hours.
+Employee: EsMrada, Position: WFS000552 has worked for 7 consecutive days.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 4 hours.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 2 hours.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 4 hours.
+Employee: EsMrada, Position: WFS000552 has a short shift with duration: 2 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 4 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 3 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 3 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 5 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 4 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 4 hours.
+Employee: SMrickXaWd, Position: WFS000555 has worked for 7 consecutive days.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 4 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 4 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 4 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 4 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 4 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 4 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 4 hours.
+Employee: SMrickXaWd, Position: WFS000555 has worked for 7 consecutive days.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 4 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 4 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 3 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 4 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 3 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 4 hours.
+Employee: SMrickXaWd, Position: WFS000555 has a short shift with duration: 3 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 4 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 2 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 3 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 2 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 3 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 2 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has worked for 7 consecutive days.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 3 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 3 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 3 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 4 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 2 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 4 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has worked for 7 consecutive days.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 3 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 4 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 4 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 3 hours.
+Employee: RAvaXcaGa GaWAeXEs, Position: WFS000556 has a short shift with duration: 2 hours.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has a short shift with duration: 4 hours.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has a short shift with duration: 3 hours.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has a short shift with duration: 3 hours.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has a short shift with duration: 4 hours.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has a short shift with duration: 4 hours.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has a short shift with duration: 4 hours.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has worked for 7 consecutive days.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has a short shift with duration: 4 hours.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has a short shift with duration: 4 hours.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has a short shift with duration: 4 hours.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has a short shift with duration: 4 hours.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has a short shift with duration: 3 hours.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has a short shift with duration: 3 hours.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has a short shift with duration: 3 hours.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has worked for 7 consecutive days.
+Employee: JerEWiCE CEraXes, Position: WFS000557 has a short shift with duration: 2 hours.
+Employee: CharXes, Position: WFS000566 has a short shift with duration: 2 hours.
+Employee: CharXes, Position: WFS000566 has a short shift with duration: 6 hours.
+Employee: CharXes, Position: WFS000566 has a short shift with duration: 5 hours.
+Employee: CharXes, Position: WFS000566 has a short shift with duration: 2 hours.
+Employee: CharXes, Position: WFS000566 has a short shift with duration: 4 hours.
+Employee: DECiWgAez AviWa, Position: WFS000569 has a short shift with duration: 3 hours.
+Employee: DECiWgAez AviWa, Position: WFS000569 has a short shift with duration: 3 hours.
+Employee: DECiWgAez AviWa, Position: WFS000569 has a short shift with duration: 3 hours.
+Employee: DECiWgAez AviWa, Position: WFS000569 has a short shift with duration: 2 hours.
+Employee: DECiWgAez AviWa, Position: WFS000569 has a short shift with duration: 3 hours.
+Employee: DECiWgAez AviWa, Position: WFS000569 has worked for 7 consecutive days.
+Employee: DECiWgAez AviWa, Position: WFS000569 has a short shift with duration: 4 hours.
+Employee: DECiWgAez AviWa, Position: WFS000569 has a short shift with duration: 3 hours.
+Employee: DECiWgAez AviWa, Position: WFS000569 has a short shift with duration: 4 hours.
+Employee: DECiWgAez AviWa, Position: WFS000569 has a short shift with duration: 2 hours.
+Employee: DECiWgAez AviWa, Position: WFS000569 has a short shift with duration: 4 hours.
+Employee: DECiWgAez AviWa, Position: WFS000569 has a short shift with duration: 3 hours.
+Employee: DECiWgAez AviWa, Position: WFS000569 has worked for 7 consecutive days.
+Employee: DECiWgAez AviWa, Position: WFS000569 has a short shift with duration: 4 hours.
+Employee: DECiWgAez AviWa, Position: WFS000569 has a short shift with duration: 3 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 4 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 4 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 2 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 4 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 4 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 4 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has worked for 7 consecutive days.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 3 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 4 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 3 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 2 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 4 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 4 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 4 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has worked for 7 consecutive days.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 4 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 4 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 4 hours.
+Employee: CAevas ZavaXa, Position: WFS000571 has a short shift with duration: 4 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 3 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 5 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 3 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 4 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 3 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 4 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has worked for 7 consecutive days.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 4 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 4 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 4 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 4 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 3 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 5 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 4 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has worked for 7 consecutive days.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 4 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 4 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 4 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 4 hours.
+Employee: XariEs XaWdaverde, Position: WFS000572 has a short shift with duration: 4 hours.
+Employee: VaXderraCa CasMiXXE, Position: WFS000573 has a short shift with duration: 3 hours.
+Employee: VaXderraCa CasMiXXE, Position: WFS000573 has a short shift with duration: 3 hours.
+Employee: VaXderraCa CasMiXXE, Position: WFS000573 has a short shift with duration: 3 hours.
+Employee: VaXderraCa CasMiXXE, Position: WFS000573 has a short shift with duration: 3 hours.
+Employee: VaXderraCa CasMiXXE, Position: WFS000573 has a short shift with duration: 3 hours.
+Employee: VaXderraCa CasMiXXE, Position: WFS000573 has a short shift with duration: 3 hours.
+Employee: VaXderraCa CasMiXXE, Position: WFS000573 has worked for 7 consecutive days.
+Employee: VaXderraCa CasMiXXE, Position: WFS000573 has a short shift with duration: 4 hours.
+Employee: VaXderraCa CasMiXXE, Position: WFS000573 has a short shift with duration: 2 hours.
+Employee: VaXderraCa CasMiXXE, Position: WFS000573 has a short shift with duration: 4 hours.
+Employee: VaXderraCa CasMiXXE, Position: WFS000573 has a short shift with duration: 5 hours.
+Employee: VaXderraCa CasMiXXE, Position: WFS000573 has a short shift with duration: 7 hours.
+Employee: CiGriaW DeXgadE, Position: WFS000574 has a short shift with duration: 3 hours.
+Employee: CiGriaW DeXgadE, Position: WFS000574 has a short shift with duration: 3 hours.
+Employee: CiGriaW DeXgadE, Position: WFS000574 has a short shift with duration: 4 hours.
+Employee: CiGriaW DeXgadE, Position: WFS000574 has a short shift with duration: 3 hours.
+Employee: CiGriaW DeXgadE, Position: WFS000574 has a short shift with duration: 4 hours.
+Employee: CiGriaW DeXgadE, Position: WFS000574 has a short shift with duration: 4 hours.
+Employee: CiGriaW DeXgadE, Position: WFS000574 has worked for 7 consecutive days.
+Employee: CiGriaW DeXgadE, Position: WFS000574 has a short shift with duration: 4 hours.
+Employee: CarMer, Position: WFS000576 has a short shift with duration: 4 hours.
+Employee: CarMer, Position: WFS000576 has a short shift with duration: 5 hours.
+Employee: SaWchez, Position: WFS000577 has a short shift with duration: 4 hours.
+Employee: SaWchez, Position: WFS000577 has a short shift with duration: 4 hours.
+Employee: SaWchez, Position: WFS000577 has a short shift with duration: 4 hours.
+Employee: SaWchez, Position: WFS000577 has a short shift with duration: 4 hours.
+Employee: SaWchez, Position: WFS000577 has a short shift with duration: 4 hours.
+Employee: SaWchez, Position: WFS000577 has worked for 7 consecutive days.
+Employee: SaWchez, Position: WFS000577 has a short shift with duration: 4 hours.
+Employee: SaWchez, Position: WFS000577 has a short shift with duration: 5 hours.
+Employee: SaWchez, Position: WFS000577 has a short shift with duration: 4 hours.
+Employee: SaWchez, Position: WFS000577 has a short shift with duration: 3 hours.
+Employee: SaWchez, Position: WFS000577 has a short shift with duration: 4 hours.
+Employee: SaWchez, Position: WFS000577 has a short shift with duration: 4 hours.
+Employee: VasqAez, Position: WFS000578 has a short shift with duration: 3 hours.
+Employee: VasqAez, Position: WFS000578 has a short shift with duration: 3 hours.
+Employee: VasqAez, Position: WFS000578 has a short shift with duration: 3 hours.
+Employee: VasqAez, Position: WFS000578 has a short shift with duration: 3 hours.
+Employee: VasqAez, Position: WFS000578 has worked for 7 consecutive days.
+Employee: VasqAez, Position: WFS000578 has a short shift with duration: 2 hours.
+Employee: VasqAez, Position: WFS000578 has a short shift with duration: 3 hours.
+Employee: VasqAez, Position: WFS000578 has a short shift with duration: 3 hours.
+Employee: VasqAez, Position: WFS000578 has a short shift with duration: 2 hours.
+Employee: GAMierrez, Position: WFS000579 has a short shift with duration: 4 hours.
+Employee: GAMierrez, Position: WFS000579 has a short shift with duration: 4 hours.
+Employee: GAMierrez, Position: WFS000579 has a short shift with duration: 4 hours.
+Employee: GAMierrez, Position: WFS000579 has a short shift with duration: 5 hours.
+Employee: GAMierrez, Position: WFS000579 has a short shift with duration: 4 hours.
+Employee: GAMierrez, Position: WFS000579 has a short shift with duration: 3 hours.
+Employee: GAMierrez, Position: WFS000579 has worked for 7 consecutive days.
+Employee: GAMierrez, Position: WFS000579 has a short shift with duration: 5 hours.
+Employee: GAMierrez, Position: WFS000579 has a short shift with duration: 4 hours.
+Employee: GAMierrez, Position: WFS000579 has a short shift with duration: 4 hours.
+Employee: GAMierrez, Position: WFS000579 has a short shift with duration: 2 hours.
+Employee: GAMierrez, Position: WFS000579 has a short shift with duration: 4 hours.
+Employee: GAMierrez, Position: WFS000579 has a short shift with duration: 5 hours.
+Employee: GAMierrez, Position: WFS000579 has worked for 7 consecutive days.
+Employee: GAMierrez, Position: WFS000579 has a short shift with duration: 3 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 4 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 2 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 4 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 4 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 4 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has worked for 7 consecutive days.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 4 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 3 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 4 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 3 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 2 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 4 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has worked for 7 consecutive days.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 3 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 4 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 3 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 3 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 3 hours.
+Employee: HerWaWdez SaWchez, Position: WFS000581 has a short shift with duration: 5 hours.
+Employee: De XEs SaWMEs, Position: WFS000582 has a short shift with duration: 4 hours.
+Employee: De XEs SaWMEs, Position: WFS000582 has a short shift with duration: 2 hours.
+Employee: De XEs SaWMEs, Position: WFS000582 has a short shift with duration: 3 hours.
+Employee: De XEs SaWMEs, Position: WFS000582 has a short shift with duration: 4 hours.
+Employee: De XEs SaWMEs, Position: WFS000582 has a short shift with duration: 3 hours.
+Employee: De XEs SaWMEs, Position: WFS000582 has a short shift with duration: 4 hours.
+Employee: De XEs SaWMEs, Position: WFS000582 has worked for 7 consecutive days.
+Employee: De XEs SaWMEs, Position: WFS000582 has a short shift with duration: 3 hours.
+Employee: De XEs SaWMEs, Position: WFS000582 has a short shift with duration: 2 hours.
+Employee: De XEs SaWMEs, Position: WFS000582 has a short shift with duration: 4 hours.
+Employee: De XEs SaWMEs, Position: WFS000582 has a short shift with duration: 2 hours.
+Employee: De XEs SaWMEs, Position: WFS000582 has a short shift with duration: 3 hours.
+Employee: De XEs SaWMEs, Position: WFS000582 has a short shift with duration: 2 hours.
+Employee: De XEs SaWMEs, Position: WFS000582 has a short shift with duration: 6 hours.
+Employee: ViXXa, Position: WFS000583 has a short shift with duration: 4 hours.
+Employee: ViXXa, Position: WFS000583 has a short shift with duration: 6 hours.
+Employee: ViXXa, Position: WFS000583 has a short shift with duration: 4 hours.
+Employee: ViXXa, Position: WFS000583 has a short shift with duration: 5 hours.
+Employee: ViXXa, Position: WFS000583 has a short shift with duration: 4 hours.
+Employee: ViXXa, Position: WFS000583 has a short shift with duration: 5 hours.
+Employee: ViXXa, Position: WFS000583 has worked for 7 consecutive days.
+Employee: ViXXa, Position: WFS000583 has a short shift with duration: 4 hours.
+Employee: ViXXa, Position: WFS000583 has a short shift with duration: 5 hours.
+Employee: ViXXa, Position: WFS000583 has a short shift with duration: 4 hours.
+Employee: ViXXa, Position: WFS000583 has a short shift with duration: 3 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 4 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 5 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 3 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 4 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 4 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 2 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has worked for 7 consecutive days.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 4 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 5 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 4 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 4 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 4 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 4 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 4 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has worked for 7 consecutive days.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 4 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 4 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 5 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 4 hours.
+Employee: ArCeWMa FXEres, Position: WFS000584 has a short shift with duration: 5 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 3 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 5 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 4 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 2 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 4 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 3 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has worked for 7 consecutive days.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 4 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 4 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 4 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 4 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 4 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 3 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 4 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has worked for 7 consecutive days.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 3 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 3 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 2 hours.
+Employee: RaCEs HerWaWdez, Position: WFS000585 has a short shift with duration: 4 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 3 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 4 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 3 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 4 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 4 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 4 hours.
+Employee: XariEs, Position: WFS000587 has worked for 7 consecutive days.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 3 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 4 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 4 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 4 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 4 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 3 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 4 hours.
+Employee: XariEs, Position: WFS000587 has worked for 7 consecutive days.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 4 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 4 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 5 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 4 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 4 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 3 hours.
+Employee: XariEs, Position: WFS000587 has a short shift with duration: 4 hours.
+Employee: AGeX, Position: WFS000588 has a short shift with duration: 4 hours.
+Employee: AGeX, Position: WFS000588 has a short shift with duration: 4 hours.
+Employee: AGeX, Position: WFS000588 has a short shift with duration: 4 hours.
+Employee: AGeX, Position: WFS000588 has a short shift with duration: 5 hours.
+Employee: AGeX, Position: WFS000588 has a short shift with duration: 4 hours.
+Employee: AGeX, Position: WFS000588 has a short shift with duration: 3 hours.
+Employee: AGeX, Position: WFS000588 has worked for 7 consecutive days.
+Employee: AGeX, Position: WFS000588 has a short shift with duration: 4 hours.
+Employee: AGeX, Position: WFS000588 has a short shift with duration: 4 hours.
+Employee: AGeX, Position: WFS000588 has a short shift with duration: 3 hours.
+Employee: AGeX, Position: WFS000588 has a short shift with duration: 3 hours.
+Employee: WgAyeW, Position: WFS000589 has a short shift with duration: 3 hours.
+Employee: WgAyeW, Position: WFS000589 has a short shift with duration: 3 hours.
+Employee: WgAyeW, Position: WFS000589 has a short shift with duration: 5 hours.
+Employee: WgAyeW, Position: WFS000589 has a short shift with duration: 3 hours.
+Employee: WgAyeW, Position: WFS000589 has a short shift with duration: 4 hours.
+Employee: WgAyeW, Position: WFS000589 has a short shift with duration: 4 hours.
+Employee: WgAyeW, Position: WFS000589 has worked for 7 consecutive days.
+Employee: WgAyeW, Position: WFS000589 has a short shift with duration: 4 hours.
+Employee: WgAyeW, Position: WFS000589 has a short shift with duration: 4 hours.
+Employee: WgAyeW, Position: WFS000589 has a short shift with duration: 4 hours.
+Employee: WgAyeW, Position: WFS000589 has a short shift with duration: 4 hours
